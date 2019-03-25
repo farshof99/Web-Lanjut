@@ -8,5 +8,4 @@ class DosenController extends \yii\web\Controller
     {
         return $this->render('index');
     }
-
 }
